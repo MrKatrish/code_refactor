@@ -18,11 +18,11 @@ Those are 5 points i had to deal with:
 
 - Create descriptive title for website.
 
-As this is my first serious HTML project I accept any criticisms and any approvals on this.
+As this is my first serious HTML project I do accept any criticisms and any approvals on this.
 
 ## Installation
 
-No installation is needed!
+No installation is needed, just download components.
 
 ## Usage
 
@@ -35,3 +35,12 @@ All credits to edX Instructors and TA for help to understand!
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Updates
+
+v1.01 
+
+- For slower connections, img components were resized to lower values.
+
+- Added issues to the repository
+
