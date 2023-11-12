@@ -8,15 +8,15 @@ I have build this project to test my skills and what i have learn thru week.
 
 Those are 5 points i had to deal with:
 
--Change Non-Semantic HTML elements to semantic.
+- Change Non-Semantic HTML elements to semantic.
 
--Sort HTML elements follow a logical structure.
+- Sort HTML elements follow a logical structure.
 
--Add alt attributes to image and icon.
+- Add alt attributes to image and icon.
 
--Do a sequential order in heading of a page.
+- Do a sequential order in heading of a page.
 
--Create descriptive title for website.
+- Create descriptive title for website.
 
 As this is my first serious HTML project I accept any criticisms and any approvals on this.
 
